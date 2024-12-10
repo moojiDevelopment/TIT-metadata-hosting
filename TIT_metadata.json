@@ -1,0 +1,15 @@
+{
+  "name": "Titanium",
+  "symbol": "TIT",
+  "uri": "https://your-uri.com/metadata.json",
+  "uriHash": "none",
+  "creators": mooji,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://moojidevelopment.github.io/TIT-metadata-hosting/TIT_tokenImg.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
