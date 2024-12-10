@@ -3,7 +3,7 @@
   "symbol": "TIT",
   "uri": "https://your-uri.com/metadata.json",
   "uriHash": "none",
-  "creators": mooji,
+  "creators": "mooji",
   "properties": {
     "files": [
       {
