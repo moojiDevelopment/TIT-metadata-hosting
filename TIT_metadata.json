@@ -3,13 +3,6 @@
   "symbol": "TIT",
   "uri": "https://moojidevelopment.github.io/TIT-metadata-hosting/TIT_metadata.json",
   "uriHash": "none",
-  "creators": [
-    {
-      "address": "5P1vay4t5VP3dLw9MHm3Nfm3b234PGrPeykuHv5SGsED",
-      "verified": true,
-      "share": 100
-    }
-  ],
   "properties": {
     "files": [
       {
